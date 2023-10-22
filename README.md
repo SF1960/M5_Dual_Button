@@ -6,7 +6,7 @@ Dual Button Unit Code for the M5StickCPlus1.1
 2. Dual Button Unit
 
 ## Installation
-Download the code from my site
-Connect the Dual Button Unit to the M5
-Upload the code to the M5
+1. Download the code from my site
+2. Connect the Dual Button Unit to the M5
+3. Upload the code to the M5
 
